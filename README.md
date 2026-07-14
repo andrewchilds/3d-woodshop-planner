@@ -4,7 +4,7 @@ https://woodshop-planner.vercel.app
 
 <img width="3036" height="2034" alt="Screenshot 2026-07-14 at 1 01 42 PM" src="https://github.com/user-attachments/assets/e7e55f98-db0f-4e1e-8476-3dfd14bebf51" />
 
-A simple, offline, web-based 3D woodworking plan editor. Built with Svelte and Three.js.
+A simple, serverless, browser-based 3D woodworking plan editor. Built with Svelte and Three.js.
 
 ## Features
 
